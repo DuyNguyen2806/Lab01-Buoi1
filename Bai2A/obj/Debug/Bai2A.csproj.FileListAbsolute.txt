@@ -1,0 +1,7 @@
+C:\Users\QUOCDUY\source\repos\Bai2A\bin\Debug\Bai2A.exe.config
+C:\Users\QUOCDUY\source\repos\Bai2A\bin\Debug\Bai2A.exe
+C:\Users\QUOCDUY\source\repos\Bai2A\bin\Debug\Bai2A.pdb
+C:\Users\QUOCDUY\source\repos\Bai2A\obj\Debug\Bai2A.csproj.AssemblyReference.cache
+C:\Users\QUOCDUY\source\repos\Bai2A\obj\Debug\Bai2A.csproj.CoreCompileInputs.cache
+C:\Users\QUOCDUY\source\repos\Bai2A\obj\Debug\Bai2A.exe
+C:\Users\QUOCDUY\source\repos\Bai2A\obj\Debug\Bai2A.pdb
